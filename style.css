@@ -12,6 +12,7 @@ body{
     background-color: #1F1F1F;
     display: inline-block;
     width: 350px;
+    height:530px ;
     border-radius: 8px;
 }
 .img-men{
@@ -26,4 +27,21 @@ body{
     font-size: 12px;
     color: chartreuse;
     margin-top: 2px;
+}
+.paragraph-job{
+    margin-top:10px ;
+    color: #fff;
+}
+.btn{
+    margin-top: 10px;
+    width: 300px;
+    border-radius: 10px;
+    height: 45px;
+    background-color: #2c2c2c;
+    color: #fff;
+    border: none;
+    transition-duration: 1s;
+}
+.btn:hover{
+    background-color: #141414;
 }
