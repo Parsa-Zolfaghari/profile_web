@@ -11,7 +11,7 @@ body{
     margin-top: 100px;
     background-color: #1F1F1F;
     display: inline-block;
-    width: 400px;
+    width: 350px;
     border-radius: 8px;
 }
 .img-men{
@@ -21,4 +21,9 @@ body{
 }
 .name{
     color: white;
+}
+.paragraph{
+    font-size: 12px;
+    color: chartreuse;
+    margin-top: 2px;
 }
