@@ -4,5 +4,21 @@
     padding: 0;
 }
 body{
-    background-color: #021012;
+    background-color: #141414;
+    text-align: center;
+}
+.header{
+    margin-top: 100px;
+    background-color: #1F1F1F;
+    display: inline-block;
+    width: 400px;
+    border-radius: 8px;
+}
+.img-men{
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 40px;
+}
+.name{
+    color: white;
 }
